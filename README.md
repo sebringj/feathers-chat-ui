@@ -1,4 +1,4 @@
-# Feathers React Chat
+# Feathers React Chat (typescript w/ hooks version)
 
 This is the typescript version with hooks and modified it to be about active users rather than just users that exist.
 
