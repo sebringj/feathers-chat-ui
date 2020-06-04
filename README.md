@@ -2,7 +2,7 @@
 
 This is the typescript version with hooks and modified it to be about active users rather than boring users.
 
-Its companion api is here https://github.com/sebringj/feathers-chat-api .
+Its companion api is here https://github.com/sebringj/feathers-chat-api which is modified for active users.
 
 To run the example:
 
