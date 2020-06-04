@@ -1,6 +1,6 @@
 # Feathers React Chat (typescript w/ hooks version)
 
-This is the typescript version with hooks and modified it to be about active users rather than just users that exist.
+This is the typescript version with hooks and modified it to be about active users rather boring users.
 
 A frontend for the [feathers-chat API](https://github.com/feathersjs/feathers-chat) using React.
 
