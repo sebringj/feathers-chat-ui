@@ -4,6 +4,8 @@ This is the typescript version with hooks and modified it to be about active use
 
 A frontend for the [feathers-chat API](https://github.com/feathersjs/feathers-chat) using React.
 
+Its companion api is here https://github.com/sebringj/feathers-chat-api .
+
 To run the example:
 
 - Make sure the [feathers-chat](https://github.com/feathersjs/feathers-chat) API is running
